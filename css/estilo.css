@@ -1,0 +1,12 @@
+body {
+    background-color: brown;
+    width: 996px;
+    height: 616px;
+}
+p{
+    color: aliceblue;
+}
+h1{
+    font-weight: bold;
+    color: blue;
+}
